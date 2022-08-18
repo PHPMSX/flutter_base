@@ -1,0 +1,5 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_staging.dart
+APP_DISPLAY_NAME = App Staging
+BUNDLE_IDENTIFIER = com.example.flutterBase

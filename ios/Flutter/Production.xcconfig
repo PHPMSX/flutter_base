@@ -1,0 +1,5 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_production.dart
+APP_DISPLAY_NAME = App Producty
+BUNDLE_IDENTIFIER = com.example.flutterBase
